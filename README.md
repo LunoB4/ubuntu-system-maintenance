@@ -1,5 +1,5 @@
 # ubuntu-system-maintenance
-Update, remove orphaned packages &amp; clean old log files 
+Update, remove orphaned packages &amp; remove old log files 
 
 - Updates system
 - Remove orphaned dependencies / packages
